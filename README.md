@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Sebastian</a></h1>
+<div align="center">
+
+# Hi 👋, I'm [Sebastian](https://github.com/Sebastian-RivMor)
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <em>
     Hello, I am <b>Sebastián</b>, a <b>Computer Systems Engineering student</b> from Peru. <br>
@@ -90,6 +96,5 @@ Sebastian</a></h1>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br><br>
+
 
